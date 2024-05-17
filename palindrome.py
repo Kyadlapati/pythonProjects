@@ -77,7 +77,8 @@
 # print("\n\nRecursion Example Results")
 # tri_recursion(6)
 
-
+list2 = [10,34,90,['Mohan','shyam', 'Ram']]
+print(list2[3][2])
 
 class BankAccount:
     def __init__(self, account_number):
